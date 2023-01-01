@@ -27,10 +27,10 @@ inoremap <leader>w <Esc>:w<cr>
 noremap <leader>w :w<cr>
 
 " 使用ctrl+h/j/k/l 切换光标所在窗口
-noremap <C-h> <C-w>h
-noremap <C-j> <C-w>j
-noremap <C-k> <C-w>k
-noremap <C-l> <C-w>l
+" noremap <C-z>h <C-w>h
+" noremap <C-z>j <C-w>j
+" noremap <C-z>k <C-w>k
+" noremap <C-z>l <C-w>l
 
 
 " 插件
